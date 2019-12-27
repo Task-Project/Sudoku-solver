@@ -5,14 +5,14 @@ Basta scaricare questo programma, creare un file chiamandolo input.txt e inserir
 Negli spazi vuoti bisogna inserire lo zero altrimenti bisogna inserire il numero descritto nel Sudoku stesso.
 Esempio: 
 
-100300980
-020001007
-003020006
-040003000
-005000400
-000600050
-300070600
-200800070
-019006008
+100300980<br>
+020001007<br>
+003020006<br>
+040003000<br>
+005000400<br>
+000600050<br>
+300070600<br>
+200800070<br>
+019006008<br>
 
 Una volta fatto ciò basta eseguire il programma che vi restituirà in meno di un secondo il Sudoku risolto.
