@@ -1,7 +1,7 @@
 # Sudoku-solver
 My projects
 
-Scaricare questo programma e create un file chiamandolo input.txt inserendo il Sudoku al suo interno.
+Scaricate questo programma e create un file chiamandolo input.txt inserendo il Sudoku al suo interno.
 Per caricare il Sudoku all'interno del file di testo, bisogna ricopiare il sudoku che volete risolvere mettendo 0 se la casella e' vuota,
 altrimenti inserite il numero che si trova nella casella.
 Esempio: 
