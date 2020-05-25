@@ -9,6 +9,7 @@ int i=0,j=0,k;
 bool bl[9][9];
 
 void stampa(){
+	cout<<"LA SOLUZIONE DEL SUDOKU E'"<<endl;
 	for(int i=0;i<9;i++){
 		for(int j=0;j<9;j++){
 			cout<<mat[i][j]<<" ";
@@ -88,4 +89,5 @@ int main(){
 		}
 	}
 	stampa();
+	system("PAUSE");
 }
